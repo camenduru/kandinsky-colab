@@ -8,6 +8,7 @@
 | --- | --- |
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/kandinsky-colab/blob/main/kandinsky-colab-2.0.ipynb) | Kandinsky 2.0
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/kandinsky-colab/blob/main/kandinsky-colab-2.1.ipynb) | Kandinsky 2.1
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/kandinsky-colab/blob/main/kandinsky-colab-2.2.ipynb) | Kandinsky 2.2
 
 ## Main Repo
 https://github.com/ai-forever/Kandinsky-2
