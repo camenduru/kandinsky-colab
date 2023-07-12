@@ -12,3 +12,6 @@
 
 ## Main Repo
 https://github.com/ai-forever/Kandinsky-2
+
+## Page
+https://habr.com/ru/companies/sberbank/articles/747446/
