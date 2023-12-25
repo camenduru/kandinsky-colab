@@ -15,3 +15,7 @@ https://github.com/ai-forever/Kandinsky-2
 
 ## Page
 https://habr.com/ru/companies/sberbank/articles/747446/
+
+## Paper
+https://arxiv.org/abs/2310.03502 <br />
+https://arxiv.org/abs/2312.03511 <br />
